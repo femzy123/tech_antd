@@ -36,7 +36,7 @@ function AppFooter() {
               </a>
             </li>
           </ul>
-          <div className="copyright">Copyright &copy; 2020 Tech</div>
+          <div className="copyright">Copyright &copy; 2021 Tech</div>
           <BackTop>
             <div className="goTop">
               <i className="fas fa-arrow-circle-up"></i>
